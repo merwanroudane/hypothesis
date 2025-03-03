@@ -1,5 +1,5 @@
 # hypothesis
-application demonstrates key concepts in hypothesis testing for regression analysis through interactive visualizations and simulations. The app covers topics such as t-tests, F-tests, p-value interpretation, and multiple hypothesis testing in regression.
+ this application demonstrates key concepts in hypothesis testing for regression analysis through interactive visualizations and simulations. The app covers topics such as t-tests, F-tests, p-value interpretation, and multiple hypothesis testing in regression.
 
 Features
 Interactive t-test Visualizations:
